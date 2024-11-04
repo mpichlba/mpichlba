@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mpichlba
 - 👀 I’m interested in learning new skills 
-- 🌱 I’m currently learning kubernetes and terraform
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on any of these topics
 
 
